@@ -1,4 +1,3 @@
-# JS
 # Landing Page Template with Gulp( in the process of development )
 
 This is a basic template for creating landing pages using Gulp, a task runner that helps automate repetitive tasks in web development. With this template, you can quickly set up a bare structure for your landing page project and utilize Gulp to streamline your workflow.
